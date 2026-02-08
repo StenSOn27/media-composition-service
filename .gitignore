@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# local
+temp_media/
+outputs/
+__pycache__/
+*.mp4
+*.mp3
