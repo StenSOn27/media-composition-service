@@ -1,6 +1,6 @@
 import asyncio
 from celery import Celery
-from services.processor import MediaProcessor
+from app.services.processor import MediaProcessor
 from app.config.settings import Settings
 
 settings = Settings()
